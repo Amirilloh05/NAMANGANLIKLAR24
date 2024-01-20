@@ -636,7 +636,7 @@ text-decoration: underline;
   list-style: none;
 }
 
-
+/* footr */
 .site-footer-socials-item:not(:last-child) {
   margin-right:25px ;
 }
